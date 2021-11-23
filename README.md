@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Big Data/Machine Learning engineer
-- 👯 I'm helping people to better understand Decision Tree structures by working on the awesome [dtreeviz library](https://github.com/parrt/dtreeviz)
+- 👯 I'm helping people to better interprete Decision Tree models by working on the awesome [dtreeviz library](https://github.com/parrt/dtreeviz)
 
 <!--
 **tlapusan/tlapusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
